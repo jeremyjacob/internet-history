@@ -207,8 +207,7 @@
 			>
 		</Folder>
 		<Anchor
-			href="https://web.archive.org/web/
-				<br /><br />19990508070818fw_/http://www3.yahoo.com/">Yahoo!</Anchor
+			href="https://web.archive.org/web/19990508070818fw_/http://www3.yahoo.com/">Yahoo!</Anchor
 		>
 		<Folder name="MS-DOS">
 			<Image
