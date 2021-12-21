@@ -1,0 +1,27 @@
+body,
+html {
+	margin: 0;
+	height: 100%;
+	font-family: 'PX Sans';
+}
+
+@font-face {
+	font-family: 'PX Sans';
+	src: url(assets/px_sans_nouveaux.woff2);
+}
+
+@font-face {
+	font-family: 'PX Icons';
+	src: url(assets/px_icons.woff2);
+}
+
+.inset {
+	background: rgb(243, 243, 243);
+	border-top: 1px solid gray;
+	border-left: 1px solid gray;
+	border-right: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	box-shadow: 1px 0 #fff, 0 1px #fff, 1px 1px #fff;
+	margin-right: 1px;
+	// margin-bottom: 1px;
+}
