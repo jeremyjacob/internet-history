@@ -18,20 +18,17 @@
 		</Folder>
 		<Folder name="Websites!">
 			<Anchor
-				href="https://web.archive.org/web/
-				<br /><br />19961220154903fw_/http://www.aol.com/main.html">AOL</Anchor
+				href="https://web.archive.org/web/19961220154903fw_/http://www.aol.com/main.html">AOL</Anchor
 			>
 			<Anchor
-				href="https://web.archive.org/web/
-				<br /><br />19990508070818fw_/http://www3.yahoo.com/">Yahoo!</Anchor
+				href="https://web.archive.org/web/19990508070818fw_/http://www3.yahoo.com/">Yahoo!</Anchor
 			>
 			<Anchor
 				href="https://web.archive.org/web/20010630223136fw_/http://www.imdb.com/"
 				>IMDB</Anchor
 			>
 			<Anchor
-				href="https://web.archive.org/web/200010
-				<br /><br />19235504fw_/http://ww1.foodnetwork.com/webpages/foodnetwork/default.html"
+				href="https://web.archive.org/web/20001019235504fw_/http://ww1.foodnetwork.com/webpages/foodnetwork/default.html"
 				>Food N..</Anchor
 			>
 			<Anchor
