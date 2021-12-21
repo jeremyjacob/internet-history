@@ -57,7 +57,7 @@
 		text-align: center;
 		& > .label {
 			/* width: 4em; */
-			height: 3.5em;
+/* 			height: 3.5em; */
 			white-space: pre-wrap;
 			overflow: hidden;
 			text-overflow: ellipsis;
