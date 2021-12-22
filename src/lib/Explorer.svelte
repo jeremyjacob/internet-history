@@ -99,7 +99,7 @@
 
 	.content {
 		margin-top: 0.15em;
-		padding: 0.7em 0.8em;
+		padding: 0.7em 1.8em;
 		height: 100%;
 		display: flex;
 		gap: 2.6em;
