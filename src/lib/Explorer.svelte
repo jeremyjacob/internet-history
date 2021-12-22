@@ -102,7 +102,7 @@
 		padding: 0.7em 0.8em;
 		height: 100%;
 		display: flex;
-		gap: 1.6em;
+		gap: 2.6em;
 		align-items: flex-start;
 	}
 </style>
